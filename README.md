@@ -1,4 +1,4 @@
-![Diabetes-Classification-Using-Machine-Learning](Diabetes_cover)
+![Diabetes-Classification-Using-Machine-Learning](Diabetes_cover.png)
 # 🩺 Diabetes Classification Using Machine Learning
 
 A machine learning classification project using the **Scikit-learn
